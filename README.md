@@ -37,7 +37,7 @@ Hi, I’m **Sneha Dikshit**, a passionate learner exploring the world of **AI, D
 
 ## 📫 Let's Connect!  
 💼 **LinkedIn:** [Sneha Dikshit](https://www.linkedin.com/in/sneha-dikshit-780170283) 
-📜 **Portfolio Website:** [Coming Soon!]  
-📧 **Email:** snehadikshit.khushi@gmail.com
+📜 **Portfolio Website:**  [Portfolio](https://visionbysneha.github.io/Portfolio/)  
+📧 **Email:**  snehadikshit.khushi@gmail.com
 
 ✨ *Follow me for updates as I grow in tech!* 🚀
